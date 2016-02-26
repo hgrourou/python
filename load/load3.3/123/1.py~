@@ -1,0 +1,10 @@
+
+
+# -*- coding:utf-8 -*-
+#! /opt/python3.3.2/bin/python3.3
+import urllib.request
+import re
+import os
+import sys
+import time
+print(time.strftime('%Y-%m-%d-%H-%M-%S',time.localtime(time.time())))
